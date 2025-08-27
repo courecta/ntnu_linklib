@@ -1,0 +1,1 @@
+# ntnu_linklib
