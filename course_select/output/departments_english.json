@@ -1,0 +1,810 @@
+[
+  [
+    "GU",
+    "GU  Center for General Education"
+  ],
+  [
+    "AIA",
+    "AIA  Taiwan Artificial Intelligence College Alliance"
+  ],
+  [
+    "AOD",
+    "AOD  All-Out Defense Education"
+  ],
+  [
+    "CU",
+    "CU  Common Course"
+  ],
+  [
+    "EU",
+    "EU  School of Teacher Education"
+  ],
+  [
+    "PE",
+    "PE  Physical Education"
+  ],
+  [
+    "9UAA",
+    "9UAA  NTU Course (Undergraduate)"
+  ],
+  [
+    "9MAA",
+    "9MAA  NTU Course (Master)"
+  ],
+  [
+    "9DAA",
+    "9DAA  NTU Course (Doctor)"
+  ],
+  [
+    "9UAB",
+    "9UAB  NTUST Course (Undergraduate)"
+  ],
+  [
+    "9MAB",
+    "9MAB  NTUST Course (Master)"
+  ],
+  [
+    "E",
+    "E  College of Education"
+  ],
+  [
+    "EU00",
+    "EU00  Department of Education"
+  ],
+  [
+    "EM00",
+    "EM00  Department of Education"
+  ],
+  [
+    "ED00",
+    "ED00  Department of Education"
+  ],
+  [
+    "EU01",
+    "EU01  Department of Educational Psychology and Counseling"
+  ],
+  [
+    "EM01",
+    "EM01  Department of Educational Psychology and Counseling"
+  ],
+  [
+    "ED01",
+    "ED01  Department of Educational Psychology and Counseling"
+  ],
+  [
+    "EU02",
+    "EU02  Department of Adult and Continuing Education"
+  ],
+  [
+    "EM02",
+    "EM02  Department of Adult and Continuing Education"
+  ],
+  [
+    "ED02",
+    "ED02  Department of Adult and Continuing Education"
+  ],
+  [
+    "EU05",
+    "EU05  Department of Health Promotion and Health Education"
+  ],
+  [
+    "EM05",
+    "EM05  Department of Health Promotion and Health Education"
+  ],
+  [
+    "ED05",
+    "ED05  Department of Health Promotion and Health Education"
+  ],
+  [
+    "EU06",
+    "EU06  Department of Child and Family Science"
+  ],
+  [
+    "EM06",
+    "EM06  Department of Child and Family Science"
+  ],
+  [
+    "ED06",
+    "ED06  Department of Child and Family Science"
+  ],
+  [
+    "EU07",
+    "EU07  Department of Civic Education and Leadership"
+  ],
+  [
+    "EM07",
+    "EM07  Department of Civic Education and Leadership"
+  ],
+  [
+    "ED07",
+    "ED07  Department of Civic Education and Leadership"
+  ],
+  [
+    "EM08",
+    "EM08  Graduate Institute of Information and Computer Education"
+  ],
+  [
+    "ED08",
+    "ED08  Graduate Institute of Information and Computer Education"
+  ],
+  [
+    "EU09",
+    "EU09  Department of Special Education"
+  ],
+  [
+    "EM09",
+    "EM09  Department of Special Education"
+  ],
+  [
+    "ED09",
+    "ED09  Department of Special Education"
+  ],
+  [
+    "EU11",
+    "EU11  Undergraduate Program of Learning Sciences"
+  ],
+  [
+    "EM15",
+    "EM15  Graduate Institute of Library and Information Studies"
+  ],
+  [
+    "ED15",
+    "ED15  Graduate Institute of Library and Information Studies"
+  ],
+  [
+    "EM16",
+    "EM16  Graduate Institute of Educational Policy and Administration"
+  ],
+  [
+    "EM17",
+    "EM17  Graduate Institute of Rehabilitation Counseling and Gerontological Wellbeing"
+  ],
+  [
+    "EU13",
+    "EU13  Transdisciplinary Program in College of Education"
+  ],
+  [
+    "EM03",
+    "EM03  Graduate Institute of Curriculum and Instruction"
+  ],
+  [
+    "L",
+    "L  College of Liberal Arts"
+  ],
+  [
+    "LU20",
+    "LU20  Department of Chinese"
+  ],
+  [
+    "LM20",
+    "LM20  Department of Chinese"
+  ],
+  [
+    "LU21",
+    "LU21  Department of English"
+  ],
+  [
+    "LM21",
+    "LM21  Department of English"
+  ],
+  [
+    "LD21",
+    "LD21  Department of English"
+  ],
+  [
+    "LU22",
+    "LU22  Department of History"
+  ],
+  [
+    "LM22",
+    "LM22  Department of History"
+  ],
+  [
+    "LU23",
+    "LU23  Department of Geography"
+  ],
+  [
+    "LM23",
+    "LM23  Department of Geography"
+  ],
+  [
+    "LD23",
+    "LD23  Department of Geography"
+  ],
+  [
+    "LU25",
+    "LU25  Graduate Institute of Translation and Interpretation"
+  ],
+  [
+    "LM25",
+    "LM25  Graduate Institute of Translation and Interpretation"
+  ],
+  [
+    "LD25",
+    "LD25  Graduate Institute of Translation and Interpretation"
+  ],
+  [
+    "LU26",
+    "LU26  Department of Taiwan Culture, Languages and Literature"
+  ],
+  [
+    "LM26",
+    "LM26  Department of Taiwan Culture, Languages and Literature"
+  ],
+  [
+    "LU27",
+    "LU27  Graduate Institute of Taiwan History"
+  ],
+  [
+    "LM27",
+    "LM27  Graduate Institute of Taiwan History"
+  ],
+  [
+    "S",
+    "S  College of Science"
+  ],
+  [
+    "SU40",
+    "SU40  Department of Mathematics"
+  ],
+  [
+    "SM40",
+    "SM40  Department of Mathematics"
+  ],
+  [
+    "SD40",
+    "SD40  Department of Mathematics"
+  ],
+  [
+    "SU41",
+    "SU41  Department of Physics"
+  ],
+  [
+    "SM41",
+    "SM41  Department of Physics"
+  ],
+  [
+    "SU42",
+    "SU42  Department of Chemistry"
+  ],
+  [
+    "SM42",
+    "SM42  Department of Chemistry"
+  ],
+  [
+    "SD42",
+    "SD42  Department of Chemistry"
+  ],
+  [
+    "SU43",
+    "SU43  Department of Life Science"
+  ],
+  [
+    "SM43",
+    "SM43  Department of Life Science"
+  ],
+  [
+    "SD43",
+    "SD43  Department of Life Science"
+  ],
+  [
+    "SU44",
+    "SU44  Department of Earth Sciences"
+  ],
+  [
+    "SM44",
+    "SM44  Department of Earth Sciences"
+  ],
+  [
+    "SD44",
+    "SD44  Department of Earth Sciences"
+  ],
+  [
+    "SU45",
+    "SU45  Graduate Institute of Science Education"
+  ],
+  [
+    "SM45",
+    "SM45  Graduate Institute of Science Education"
+  ],
+  [
+    "SD45",
+    "SD45  Graduate Institute of Science Education"
+  ],
+  [
+    "SM46",
+    "SM46  Graduate Institute of Sustainability Management and Environmental Education"
+  ],
+  [
+    "SU47",
+    "SU47  Department of Computer Science and Information Engineering"
+  ],
+  [
+    "SM47",
+    "SM47  Department of Computer Science and Information Engineering"
+  ],
+  [
+    "SM50",
+    "SM50  Taiwan International Graduate Program on Biodiversity"
+  ],
+  [
+    "SD50",
+    "SD50  Taiwan International Graduate Program on Biodiversity"
+  ],
+  [
+    "SU51",
+    "SU51  Undergraduate Program of Nutrition Science"
+  ],
+  [
+    "SM51",
+    "SM51  Graduate Program of Nutrition Science"
+  ],
+  [
+    "SM52",
+    "SM52  Graduate Program of Biotechnology and Pharmaceutical Industries"
+  ],
+  [
+    "TU60",
+    "TU60  Department of Fine Arts"
+  ],
+  [
+    "TM60",
+    "TM60  Department of Fine Arts"
+  ],
+  [
+    "TD60",
+    "TD60  Department of Fine Arts"
+  ],
+  [
+    "TM67",
+    "TM67  Graduate Institute of Art History"
+  ],
+  [
+    "TU68",
+    "TU68  Department of Design"
+  ],
+  [
+    "TM68",
+    "TM68  Department of Design"
+  ],
+  [
+    "TD68",
+    "TD68  Department of Design"
+  ],
+  [
+    "H",
+    "H  College of Technology and Engineering"
+  ],
+  [
+    "HU70",
+    "HU70  Department of Industrial Education"
+  ],
+  [
+    "HM70",
+    "HM70  Department of Industrial Education"
+  ],
+  [
+    "HD70",
+    "HD70  Department of Industrial Education"
+  ],
+  [
+    "HU71",
+    "HU71  Department of Technology Application and Human Resource Development"
+  ],
+  [
+    "HM71",
+    "HM71  Department of Technology Application and Human Resource Development"
+  ],
+  [
+    "HD71",
+    "HD71  Department of Technology Application and Human Resource Development"
+  ],
+  [
+    "HU72",
+    "HU72  Department of Graphic Arts and Communications"
+  ],
+  [
+    "HM72",
+    "HM72  Department of Graphic Arts and Communications"
+  ],
+  [
+    "HU73",
+    "HU73  Department of Mechatronic Engineering"
+  ],
+  [
+    "HM73",
+    "HM73  Department of Mechatronic Engineering"
+  ],
+  [
+    "HU75",
+    "HU75  Department of Electrical Engineering"
+  ],
+  [
+    "HM75",
+    "HM75  Department of Electrical Engineering"
+  ],
+  [
+    "HU76",
+    "HU76  Undergraduate Program of Vehicle and Energy Engineering"
+  ],
+  [
+    "HM76",
+    "HM76  Graduate Institute of Vehicle and Energy Engineering"
+  ],
+  [
+    "HU77",
+    "HU77  Undergraduate Program of Electro-Optical Engineering"
+  ],
+  [
+    "HM77",
+    "HM77  Graduate Institute of Electro-optical Engineering"
+  ],
+  [
+    "HD78",
+    "HD78  International Doctoral Program in Integrative STEM Education"
+  ],
+  [
+    "A",
+    "A  College of Sports and Recreation"
+  ],
+  [
+    "AU30",
+    "AU30  Department of Physical Education and Sport Sciences"
+  ],
+  [
+    "AM30",
+    "AM30  Department of Physical Education and Sport Sciences"
+  ],
+  [
+    "AD30",
+    "AD30  Department of Physical Education and Sport Sciences"
+  ],
+  [
+    "AM31",
+    "AM31  Graduate Institute of Sport, Leisure and Hospitality Management"
+  ],
+  [
+    "AD31",
+    "AD31  Graduate Institute of Sport, Leisure and Hospitality Management"
+  ],
+  [
+    "AU32",
+    "AU32  Department of Sport and Kinesiology"
+  ],
+  [
+    "AM32",
+    "AM32  Department of Sport and Kinesiology"
+  ],
+  [
+    "I",
+    "I  College of International Studies and Social Sciences"
+  ],
+  [
+    "IM82",
+    "IM82  Graduate Institute of European Cultures and Tourism"
+  ],
+  [
+    "IU83",
+    "IU83  Department of East Asian Studies"
+  ],
+  [
+    "IM83",
+    "IM83  Department of East Asian Studies"
+  ],
+  [
+    "ID83",
+    "ID83  Department of East Asian Studies"
+  ],
+  [
+    "IU84",
+    "IU84  Department of Chinese as a Second Language"
+  ],
+  [
+    "IM84",
+    "IM84  Department of Chinese as a Second Language"
+  ],
+  [
+    "ID84",
+    "ID84  Department of Chinese as a Second Language"
+  ],
+  [
+    "IM86",
+    "IM86  Graduate Institute of International Human Resource Development"
+  ],
+  [
+    "IU88",
+    "IU88  Graduate Institute of Mass Communication"
+  ],
+  [
+    "IM88",
+    "IM88  Graduate Institute of Mass Communication"
+  ],
+  [
+    "IM89",
+    "IM89  Graduate Institute of Social Work"
+  ],
+  [
+    "IUH0",
+    "IUH0  Program of Global Studies"
+  ],
+  [
+    "MU90",
+    "MU90  Department of Music"
+  ],
+  [
+    "MM90",
+    "MM90  Department of Music"
+  ],
+  [
+    "MD90",
+    "MD90  Department of Music"
+  ],
+  [
+    "MM91",
+    "MM91  Graduate Institute of Ethnomusicology"
+  ],
+  [
+    "MU92",
+    "MU92  Undergraduate Program of Performing Arts"
+  ],
+  [
+    "MM92",
+    "MM92  Graduate Institute of Performing Arts"
+  ],
+  [
+    "O",
+    "O  College of Management"
+  ],
+  [
+    "OU55",
+    "OU55  Graduate Institute of Management"
+  ],
+  [
+    "OM55",
+    "OM55  Graduate Institute of Management"
+  ],
+  [
+    "OU56",
+    "OU56  Graduate Institute of Global Business and Strategy"
+  ],
+  [
+    "OM56",
+    "OM56  Graduate Institute of Global Business and Strategy"
+  ],
+  [
+    "OU57",
+    "OU57  Department of Business Administration"
+  ],
+  [
+    "C",
+    "C  College of Interdisciplinary Industry-Academia Innovation"
+  ],
+  [
+    "CMK0",
+    "CMK0  Graduate Institute of AI Interdisciplinary Applied Technology"
+  ],
+  [
+    "CMK1",
+    "CMK1  Graduate Institute of Green Energy and Sustainable Technology"
+  ],
+  [
+    "ZU37",
+    "ZU37  Human Services and Social Work Credit Program"
+  ],
+  [
+    "ZU38",
+    "ZU38  The EMI Certificate Program in Environmental Humanities at NTNU"
+  ],
+  [
+    "ZU39",
+    "ZU39  The Program of Sports Technology"
+  ],
+  [
+    "ZU41",
+    "ZU41  Artificial Intelligence for Natural Language Technology Program"
+  ],
+  [
+    "ZU42",
+    "ZU42  The Program of Economics"
+  ],
+  [
+    "ZU44",
+    "ZU44  Applied Artificial Intelligence Exploration Program"
+  ],
+  [
+    "ZU45",
+    "ZU45  NTNU and TSMC Semiconductor Program"
+  ],
+  [
+    "ZU46",
+    "ZU46  The Program of Hakka Language and Culture"
+  ],
+  [
+    "ZU47",
+    "ZU47  The Program of Technology-assisted Teaching Industry"
+  ],
+  [
+    "ZU48",
+    "ZU48  The Program of Metaverse Narrative"
+  ],
+  [
+    "ZU49",
+    "ZU49  The Program of Sustainable Management"
+  ],
+  [
+    "ZU50",
+    "ZU50  The Program of Business Data Analysis"
+  ],
+  [
+    "ZU51",
+    "ZU51  The EMI Program of Scientific Computing and Interdisciplinary Application"
+  ],
+  [
+    "ZU52",
+    "ZU52  The Program of Strength and Conditioning"
+  ],
+  [
+    "ZU53",
+    "ZU53  The Program of Semiconductor Technology"
+  ],
+  [
+    "ZU54",
+    "ZU54  The Program of  International Trade and foreign affairs"
+  ],
+  [
+    "ZU55",
+    "ZU55  The Program of Big Data in Education"
+  ],
+  [
+    "ZU56",
+    "ZU56  The Program of International Relations and Diplomacy"
+  ],
+  [
+    "ZU59",
+    "ZU59  The Program of Music-assisted Guidance and Special Education"
+  ],
+  [
+    "ZU60",
+    "ZU60  The Program of Computer Music and Audio Technology"
+  ],
+  [
+    "ZU61",
+    "ZU61  The Program of  Astronomy and Gravitation"
+  ],
+  [
+    "ZU62",
+    "ZU62  The Program of STEM Innovation and Practices"
+  ],
+  [
+    "ZU63",
+    "ZU63  The Program of Digital Art and Technology"
+  ],
+  [
+    "ZU64",
+    "ZU64  The Program of Transformation of Knowledge and Cultural Production"
+  ],
+  [
+    "ZU65",
+    "ZU65  The Program of Translation and Interpretation"
+  ],
+  [
+    "ZU66",
+    "ZU66  The Program of Outdoor Adventure Leadership"
+  ],
+  [
+    "ZU67",
+    "ZU67  The Program of Scientific Computation"
+  ],
+  [
+    "ZU68",
+    "ZU68  The Program of Solar Energy Engineering"
+  ],
+  [
+    "ZU69",
+    "ZU69  The Program of Conservation of Cultural Relics"
+  ],
+  [
+    "ZU73",
+    "ZU73  The Program of Injury Prevention and Athletic Training"
+  ],
+  [
+    "ZU74",
+    "ZU74  The Program of International Baccalaureate Educator Certificate-Chinese Language Education"
+  ],
+  [
+    "ZU75",
+    "ZU75  The Program of International Baccalaureate Educator Certificate-International  Mathematics Education"
+  ],
+  [
+    "ZU76",
+    "ZU76  The Program of International Baccalaureate Educator Certificate-International  Physics  Education"
+  ],
+  [
+    "ZU77",
+    "ZU77  The Program of Application of Information Technology"
+  ],
+  [
+    "ZU78",
+    "ZU78  The Program of Technology and Application of Artificial Intelligence"
+  ],
+  [
+    "ZU79",
+    "ZU79  The Program of PASSION Quality Education in Rural Schools"
+  ],
+  [
+    "ZU83",
+    "ZU83  The Program of Fundamental Management"
+  ],
+  [
+    "ZU84",
+    "ZU84  The Program of Finance"
+  ],
+  [
+    "ZU89",
+    "ZU89  The Program of Environmental Monitoring and Disaster Mitigation"
+  ],
+  [
+    "ZU92",
+    "ZU92  The Honors Program in Advanced English"
+  ],
+  [
+    "ZU93",
+    "ZU93  European Cultures and Languages Program"
+  ],
+  [
+    "ZU94",
+    "ZU94  The Program of Literature Creation"
+  ],
+  [
+    "ZU97",
+    "ZU97  The Program in Japanese as a Foreign Language"
+  ],
+  [
+    "ZU98",
+    "ZU98  The program of Cultivating Seniors Service Talent in Community"
+  ],
+  [
+    "ZU9A",
+    "ZU9A  The Program of Region and Tourism Planning"
+  ],
+  [
+    "ZU9B",
+    "ZU9B  The Program of Geospatial Information Science"
+  ],
+  [
+    "ZU9E",
+    "ZU9E  Application Program in Society and Communication"
+  ],
+  [
+    "ZU9O",
+    "ZU9O  Interdisciplinary Program For Interior Design Profession"
+  ],
+  [
+    "ZU9P",
+    "ZU9P  Korean Studies and Language Program"
+  ],
+  [
+    "ZU9Q",
+    "ZU9Q  The Program of Club Members Leadership And Empowerment Cultivation"
+  ],
+  [
+    "ZU9U",
+    "ZU9U  The Program of Indigenous Education and Culture"
+  ],
+  [
+    "ZU9V",
+    "ZU9V  Program of Entrepreneurship"
+  ],
+  [
+    "ZU9W",
+    "ZU9W  The Program of Elite Athletes College"
+  ],
+  [
+    "ZU9X",
+    "ZU9X  The Program in Philosophy"
+  ],
+  [
+    "ZU9Z",
+    "ZU9Z  The Program of International Baccalaureate Educator Certificate-International Education"
+  ]
+]

@@ -1,0 +1,21 @@
+{
+  "course_serial": "2939",
+  "subject_code": "CSU0001",
+  "english_name": "Computer Programming (I)",
+  "全_半年": "半",
+  "credits": "3.0",
+  "department_level": "資工系（學）",
+  "prerequisites": "",
+  "course_description": "本課程介紹 C 程式語言之基礎語法，包含輸入/輸出、選擇控制、迴圈控制、陣列、函式、指標、字元、字串與結構型態等。",
+  "learning_objectives": "對應系所核心能力",
+  "instructor": "張鈞法",
+  "方式": "百分比",
+  "required_texts": "劉邦鋒：由片語學習 C 程式設計，台大出版中心(圖書館提供電子書，可同時100人借閱)",
+  "_metadata": {
+    "course_code": "CSU0001",
+    "course_group": "A",
+    "dept_code": "SU47",
+    "fetch_timestamp": 1756746592.1311426,
+    "status_code": 200
+  }
+}
